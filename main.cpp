@@ -7,6 +7,14 @@
 #include "ThuatToan.h"
 #include "BanCo.h"
 using namespace std;
+
+/*
+
+Author: Nguyen Van Hop - K57CLC - UET-VNU
+
+*/
+
+
 void danhBai();
 char banCo[8][8];
 void setNen()
